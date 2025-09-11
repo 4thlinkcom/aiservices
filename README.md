@@ -1,2 +1,0 @@
-# ai
-🤖 Ai-Benchmarking (Sammenligning)
