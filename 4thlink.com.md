@@ -3,11 +3,11 @@
 
 Velkommen til Ai-Benchmarking. Nedenfor er en simpel rangeringsoversigt (1 = bedst).
 
-| Rang | Bemærkning |
+| Rang | Ai Chat URL |
 |---:|---|
-| 1 | Bedst |
-| 2 |  |
-| 3 |  |
+| 1 | 1🥇 |
+| 2 | 2🥈 |
+| 3 | 3🥉 |
 | 4 |  |
 | 5 |  |
 | 6 |  |
@@ -24,4 +24,3 @@ Velkommen til Ai-Benchmarking. Nedenfor er en simpel rangeringsoversigt (1 = bed
 | 17 |  |
 | 18 |  |
 | 19 |  |
-| 20 | Lavest |
